@@ -88,10 +88,14 @@ body {
 
 /* footer section */
 
+footer {
+   margin-top: 10%;
+    
+}
 .footer-icon {
-    padding-top: 10%;
-    color: #fff;
     margin: 20px 10px;
+    color: #fff;
+    
   }
 
 
