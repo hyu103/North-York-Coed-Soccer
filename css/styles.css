@@ -1,0 +1,122 @@
+body {
+    background: linear-gradient(rgba(15, 32, 39, 0.7),
+        rgba(15, 32, 39, 0.7)),
+        url("../img/elite_soccer_hero2.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ 
+ h1 {
+     padding-top: 15%;
+ }
+
+ hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 4%;
+    border-color:rgba(108, 125, 133, 0.7);
+    margin: 100px auto;
+  }
+
+ .white-section {
+    color: #fff;
+}
+ .container-fluid {
+     padding: 7% 15% auto;
+ }
+/* navigation section */
+.navbar {
+    background-color: transparent;
+    padding: 
+}
+
+.navbar-brand {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.introP {
+    padding: 5% 15%;
+    font-size: 1.5rem;
+}
+
+
+/* modal section */
+
+.modal {
+    text-align: left;
+}
+
+.modal-content {
+    background-color: rgba(15, 32, 39, 0.7)
+}
+
+.loginBtns {
+    text-align: right;
+}
+
+
+/* schedule section */
+
+#schedule {
+    margin-top: 5rem;
+}
+
+.card {
+    background-color: transparent;
+    margin: 2rem 1rem;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.card-text {
+    padding-top: 30px;
+}
+.dateItem {
+    background-color: rgba(15, 32, 39, 0.3);
+}
+
+
+/* footer section */
+
+.footer-icon {
+    padding-top: 10%;
+    color: #fff;
+    margin: 20px 10px;
+  }
+
+
+/********************* newAccount CSS *********************/
+
+#newAccount {
+    background: linear-gradient(rgba(15, 32, 39, 0.7),
+        rgba(15, 32, 39, 0.7)),
+        url("../img/cr_7_bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+#newAccount .container {
+    margin-top: 10%;   
+}
+
+#newAccount .card-header {
+    font-size: 2rem;
+}
+
+#newAccount .submit {
+    padding-top: 5%;
+    text-align: center;
+}
